@@ -9,7 +9,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0903747/",
   "episodes": 60,
   "episodeLength": 47,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "Californication",
   "imdb": "http://www.imdb.com/title/tt0904208/",
