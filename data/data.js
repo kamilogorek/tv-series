@@ -1,4 +1,10 @@
 var series = [{
+  "title": "Better Off Ted",
+  "imdb": "http://www.imdb.com/title/tt1235547/",
+  "episodes": 26,
+  "episodeLength": 30,
+  "stillWatching": 0
+}, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
   "episodes": 135,
@@ -93,7 +99,7 @@ var series = [{
 }, {
   "title": "Wilfred",
   "imdb": "http://www.imdb.com/title/tt1703925",
-  "episodes": "26",
+  "episodes": "39",
   "episodeLength": 30,
   "stillWatching": 1
 }, {
